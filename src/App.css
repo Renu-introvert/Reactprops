@@ -1,5 +1,35 @@
+
 .App {
   text-align: center;
+}
+.nav a{
+  text-decoration: none;
+  margin-right:30%;
+  text-align: center;
+
+}
+.nav{
+
+  background-color: palevioletred;
+  font-size: 40px;
+  font-family: sans-serif; 
+  margin-bottom: 2%;
+ width: 100%;
+}
+.home{
+  font-size: 30px;
+  background-color:lawngreen;
+  width: 20%;
+}
+.contact{
+  font-size: 30px;
+  background-color:orangered;
+  width: 20%;
+}
+.about{
+  font-size: 30px;
+  background-color:powderblue;
+  width: 20%;
 }
 
 .App-logo {
